@@ -1,0 +1,5 @@
+num_dcs=2
+cassandra_ips=h1-dib
+cassandra_ips=192.168.1.0
+cassandra_ips=h2-dib
+cassandra_ips=192.168.2.0

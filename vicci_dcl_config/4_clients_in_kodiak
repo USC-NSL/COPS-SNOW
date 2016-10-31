@@ -1,0 +1,5 @@
+num_dcs=2
+cassandra_ips=h5-dib
+cassandra_ips=h6-dib
+cassandra_ips=h7-dib
+cassandra_ips=h8-dib
